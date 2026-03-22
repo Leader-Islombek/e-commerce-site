@@ -1,6 +1,4 @@
-# ThewayShop - E-Commerce Landing Page
-
-![Project Demo](demo.webp)
+# ThewayShop
 
 ## Overview
 
